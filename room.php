@@ -1,6 +1,5 @@
 <?php
 
-use common\models\finance\FinanceCategoryGroup;
 use common\models\hotel\HotelRoom;
 use yii\bootstrap\ActiveForm;
 use yii\helpers\Html;
